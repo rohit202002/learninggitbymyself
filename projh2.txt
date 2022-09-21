@@ -1,2 +1,3 @@
 learning git diff --staged
 
+learning log -p
