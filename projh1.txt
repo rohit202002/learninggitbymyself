@@ -1,1 +1,17 @@
+<<<<<<< HEAD
 this is last day of learning git 23/9/22
+=======
+hvdjfvhdvfhvf
+sghv kfbjfb
+
+rrrrrrrrrrrrrrrrrrrooorrrrrrrr
+
+
+
+
+rshety
+estysyy
+ety
+
+rrrrrrrrrrrrrrrrrrrooorrrrrrrrrrrrrrrrrrrrrrrrrrrooorrrrrrrrrrrrrrrrrrrrrrrrrrrooorrrrrrrrrrrrrrrrrrrrrrrrrrrooorrrrrrrrrrrrrrrrrrrrrrrrrrrooorrrrrrrrrrrrrrrrrrrrrrrrrrrooorrrrrrrrrrrrrrrrrrrrrrrrrrrooorrrrrrrrrrrrrrrrrrrrrrrrrrrooorrrrrrrrrrrrrrrrrrrrrrrrrrrooorrrrrrrrrrrrrrrrrrrrrrrrrrrooorrrrrrrrrrrrrrrrrrrrrrrrrrrooorrrrrrrrrrrrrrrrrrrrrrrrrrrooorrrrrrrrrrrrrrrrrrrrrrrrrrrooorrrrrrrr
+>>>>>>> e8f4e8cf5d21d22cbadf9c20ddad37fac143ed9a
